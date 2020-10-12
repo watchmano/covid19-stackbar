@@ -1,8 +1,3 @@
-/*
-*    main.js
-*    Mastering Data Visualization with D3.js
-*    5.7 - D3 Transitions
-*/
 
 var margin = { left:80, right:20, top:50, bottom:100 };
 
